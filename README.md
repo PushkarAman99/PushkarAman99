@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python and django.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/aman-pushkar-b8a182197/  ,  @aman_pushkar
 
 <!---
 PushkarAman99/PushkarAman99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
