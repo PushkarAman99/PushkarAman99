@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PushkarAman99
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and django.
+- 🌱 Skills: Python, NodeJs, MySql, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/aman-pushkar-b8a182197/  ,  @aman_pushkar
 
